@@ -2,6 +2,8 @@
 
 This project is an end-to-end automated pipeline that ingests CVs from Gmail, stores them in AWS S3, evaluates each candidate using AI, and selects the top profiles based on recruiter-defined criteria. The system is fully serverless and cloud-native.
 
+Deployed app Link : https://ai-driven-cloud-recruitment-automation-system-r748tcy5s.vercel.app/
+
 ## Features
 - Automated Gmail ingestion script that downloads CV attachments into S3
 - Event-driven workflow using AWS Lambda and S3 triggers
