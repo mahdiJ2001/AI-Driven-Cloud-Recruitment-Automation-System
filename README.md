@@ -35,21 +35,4 @@ View of all candidates in a table format.
 
 ![All Candidates](candidates.png)
 
-## Tech Stack
-- AWS S3
-- AWS Lambda
-- AWS API Gateway
-- AWS Bedrock (Claude 3.5) for AI scoring
-- RDS PostgreSQL databases
-- Next.js dashboard deployed on Vercel
-- Python ingestion scripts
-- Serverless event-driven architecture
 
-## Setup
-1. Configure Gmail API and enable IMAP access
-2. Deploy AWS Lambda functions and S3 bucket triggers
-3. Set environment variables and API keys
-4. Run the ingestion script to fetch and upload CVs
-
-## License
-MIT License
